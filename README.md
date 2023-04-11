@@ -49,7 +49,7 @@ REQUIRED SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic Database] <a name="about-project"></a>
+# 📖Vet Clinic Database <a name="about-project"></a>
 
 **Vet Clinic Database is my first PostgreSQL project**
 
