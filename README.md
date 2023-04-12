@@ -10,38 +10,15 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+- [💻 Getting Started ](#-getting-started-)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -91,6 +68,10 @@ REQUIRED SECTIONS:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+### Prerequisites <a name="prerequisites"></a>
+
+In order to run this project you need a Chrome, Safari or Mozilla browser
+
 To get a local copy up and running, follow these steps.
 
 ### Setup
@@ -100,6 +81,9 @@ Clone this repository to your desired folder:
 - cd my-folder
 - git clone https://github.com/batoorsohail/vet_clinic_database.git
 
+### Usage <a name="usage"></a>
+
+Run the `queries.sql` file codes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,14 +96,6 @@ Clone this repository to your desired folder:
 - GitHub: [@batoorsohail](https://github.com/batoorsohail)
 - Twitter: [@twitter](https://twitter.com/sohailBatoor)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sohail-batoor-52429b230/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Soon**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
