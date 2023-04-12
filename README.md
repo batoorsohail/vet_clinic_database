@@ -41,7 +41,6 @@ REQUIRED SECTIONS:
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -91,6 +90,10 @@ REQUIRED SECTIONS:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+### Prerequisites <a name="prerequisites"></a>
+
+In order to run this project you need a Chrome, Safari or Mozilla browser
+
 To get a local copy up and running, follow these steps.
 
 ### Setup
@@ -100,6 +103,9 @@ Clone this repository to your desired folder:
 - cd my-folder
 - git clone https://github.com/batoorsohail/vet_clinic_database.git
 
+### Usage <a name="usage"></a>
+
+Run the `queries.sql` file codes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,14 +118,6 @@ Clone this repository to your desired folder:
 - GitHub: [@batoorsohail](https://github.com/batoorsohail)
 - Twitter: [@twitter](https://twitter.com/sohailBatoor)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sohail-batoor-52429b230/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Soon**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
