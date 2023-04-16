@@ -47,6 +47,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - **Animals date of birth**
 - **Animals names**
+- **Animals species**
+- **Animals owners**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
