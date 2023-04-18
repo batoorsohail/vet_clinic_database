@@ -44,3 +44,10 @@ CREATE TABLE visits (
     date_of_visit DATE,
     PRIMARY KEY (animals_id, vet_id, date_of_visit)
 );
+
+-- This will add an email column to owners table
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+ALTER TABLE visits DROP CONSTRAINT visits_pkey;
+
+ALTER TABLE owners ALTER COLUMN age DROP NOT NULL;
