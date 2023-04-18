@@ -45,10 +45,16 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-- **Animals date of birth**
-- **Animals names**
-- **Animals species**
-- **Animals owners**
+> Describe between 1-3 key features of the application.
+
+[Schema Diagram]
+
+[Creation of Database]
+
+
+- **[Idea about the Schema Diagram]**
+- **[How to understand different Tales with their key features]**
+- **[Execution of SQL commands to construct the required Database]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,6 +96,15 @@ Run the `queries.sql` file codes
 - GitHub: [@yemisrach](https://github.com/Yemisirach)
 - Twitter: [@Yemisirach](https://twitter.com/tamiratyemsrach)
 - LinkedIn: [@Yemisirach](https://www.linkedin.com/in/yemisirach)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[SQL commands]**
+- [ ] **[Creation of Database from Schema diagram]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
