@@ -51,3 +51,9 @@ ALTER TABLE owners ADD COLUMN email VARCHAR(120);
 ALTER TABLE visits DROP CONSTRAINT visits_pkey;
 
 ALTER TABLE owners ALTER COLUMN age DROP NOT NULL;
+
+CREATE INDEX animals_id_asc ON visits(animals_id ASC);
+
+CREATE INDEX vets_id_asc ON visits(vet_id ASC);
+
+CREATE INDEX email_asc ON owners(email ASC);
