@@ -91,11 +91,17 @@ Run the `queries.sql` file codes
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Sohail Batoor**
+### 👤 **Sohail Batoor**
 
 - GitHub: [@batoorsohail](https://github.com/batoorsohail)
 - Twitter: [@twitter](https://twitter.com/sohailBatoor)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sohail-batoor-52429b230/)
+
+### 👤 **Yemisirach Tamirat**
+
+- GitHub: [@yemisrach](https://github.com/Yemisirach)
+- Twitter: [@Yemisirach](https://twitter.com/tamiratyemsrach)
+- LinkedIn: [@Yemisirach](https://www.linkedin.com/in/yemisirach)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,7 +130,6 @@ If you like this project please give it a start.
 I would like to thank for Microverse to provide this opportunity for us.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
