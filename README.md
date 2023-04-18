@@ -29,7 +29,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 # 📖Vet Clinic Database <a name="about-project"></a>
 
 **Vet Clinic Database is my first PostgreSQL project**
-
+<img src="diagram.png" alt="diagram image"/>
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
