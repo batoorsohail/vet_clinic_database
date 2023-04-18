@@ -127,7 +127,7 @@ If you like this project please give it a start.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank for Microverse to provide this opportunity for us.
+I would like to thank for Microverse to provide this opportunity for us. Also, my coding partner [@yemisrach](https://github.com/Yemisirach) for helping me during this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
